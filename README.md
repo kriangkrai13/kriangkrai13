@@ -34,12 +34,12 @@ Full-Stack Software Engineer | Web • Mobile • AI
 
 <h3 align="left">Media / Design</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ps,ai,figma&theme=light" />
+  <img src="https://skillicons.dev/icons?i=ps,ai,pr,figma&theme=light" />
 </p>
 
 <h3 align="left">Other</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,vscode,visualstudio,xcode,docker,ubuntu,apple&theme=light" />
+  <img src="https://skillicons.dev/icons?i=git,vscode,visualstudio,nginx,docker,ubuntu,apple,jenkins&theme=light" />
 </p>
 
 
