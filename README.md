@@ -14,7 +14,7 @@ Software | Web | Mobile Application ->Developer
 <p align="left">
 <h3 align="left">Backend</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,php,nodejs,express,nestjs,fastapi,python&theme=light" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,php,nodejs,express&theme=light" />
 </p>
 
 <h3 align="left">Frontend</h3>
@@ -45,10 +45,34 @@ Software | Web | Mobile Application ->Developer
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/kriangkrai13" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.gitlab.com/pae.kriangkrai" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gitlab.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gitlab.svg" width="32" height="32" alt="GitLab" title="GitLab" /> </picture> </a> <a href="https://www.youtube.com/@kjaima" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" alt="YouTube" title="YouTube" /> </picture> </a> <a href="https://www.facebook.com/kriangkrai.jaima" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" alt="Facebook" title="Facebook" /> </picture> </a></p>
+<p align="left">
+  <a href="https://github.com/kriangkrai13">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
 
-### Support Me
+  <a href="https://gitlab.com/pae.kriangkrai">
+    <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white">
+  </a>
 
-<ul style="list-style-type: none; margin: 0;">
-<a href="https://www.buymeacoffee.com/paekriangku"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a>
-</ul>
+  <a href="https://www.youtube.com/@kjaima">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+  </a>
+
+  <a href="https://www.facebook.com/kriangkrai.jaima">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
+  </a>
+</p>
+
+
+### ☕ Support Me
+
+<p align="left">
+  <a href="https://www.buymeacoffee.com/paekriangku" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="180" alt="Buy Me a Coffee" />
+  </a>
+</p>
+
+<p align="left">
+  💸 <strong>PromptPay</strong><br>
+  📱 <code>086-092-7352</code>
+</p>
