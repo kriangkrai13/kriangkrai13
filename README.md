@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Kriangkrai Jaima
 =========================================================================================================================================
 
-Software | Web | Mobile Application ->Developer
+Full-Stack Software Engineer | Web • Mobile • AI
 -----------------------------------------------
 
 * 🌍  I'm based in Chiang Mai, Thailand
@@ -76,3 +76,51 @@ Software | Web | Mobile Application ->Developer
   💸 <strong>PromptPay</strong><br>
   📱 <code>086-092-7352</code>
 </p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🌐 Web Applications
+
+- 📦 **Parcel Franchise Management System**  
+  Web application for managing parcel delivery franchises, shipments, customers, billing, reports, and branch operations.
+- 💊 **Online Pharmacy Ordering Platform**  
+  B2B ordering platform for pharmacies and clinics with inventory management, member verification, and order processing.
+- 🔧 **Garage Management System**  
+  Vehicle repair management system with work orders, quotations, invoices, customer history, and reporting.
+- ☀️ **Solar Installation Management System**  
+  Manage quotations, installation teams, technicians, customer information, and project progress.
+- 🏢 **Asset Management System**  
+  Enterprise asset tracking with QR Codes, maintenance requests, borrowing, reporting, and inventory management.
+- 🏥 **Hospital Maintenance Request System**  
+  Internal maintenance management system for hospitals with work requests, technician assignment, job tracking, and maintenance reports.
+- 🛒 **Product Sales Lock Management System**  
+  Internal business system for controlling product sales permissions, user authorization, and inventory management.
+- 👤 **Face Recognition & Student ID Attendance System**  
+  Smart attendance system using Face Recognition and Student ID Card scanning with real-time attendance records and reports.
+  
+---
+
+### 📱 Mobile Applications
+
+- 🎵 **Thai Xylophone Learning Application**  
+  AI-assisted music learning application for Thai traditional instruments with audio analysis.
+- 🌫️ **PM MAP**  
+  Air quality monitoring application displaying PM2.5 information based on user location.
+
+---
+
+### 🤖 AI & Automation
+- 🛒 **Shopee Affiliate AI Platform**  
+  SEO-focused affiliate website with product search, AI-assisted content generation, and automation.
+
+---
+
+### 🌍 Web Development
+
+- 🖥️ Custom Business Web Applications
+- 🔌 RESTful APIs (.NET, PHP, Node.js)
+- 📈 SEO-friendly Corporate Websites
+- 🛍️ E-Commerce & POS Systems
+- ⚡ Modern Admin Dashboards & CMS
