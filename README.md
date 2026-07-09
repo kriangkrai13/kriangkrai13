@@ -68,13 +68,17 @@ Full-Stack Software Engineer | Web • Mobile • AI
 
 <p align="left">
   <a href="https://www.buymeacoffee.com/paekriangku" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="180" alt="Buy Me a Coffee" />
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"
+         width="180"
+         alt="Buy Me a Coffee" />
   </a>
 </p>
 
 <p align="left">
-  💸 <strong>PromptPay</strong><br>
-  📱 <code>086-092-7352</code>
+  <strong>🇹🇭 PromptPay</strong><br>
+  <img src="./qr-code-donation.jpg"
+       alt="PromptPay QR Code"
+       width="220" />
 </p>
 
 ---
